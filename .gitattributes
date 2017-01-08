@@ -1,0 +1,4 @@
+*.tbasic linguist-language=thinBasic
+*.tbasicc linguist-language=thinBasic
+*.tbasicu linguist-language=thinBasic
+*.tbasici linguist-language=thinBasic
