@@ -1,0 +1,27 @@
+#include "C:\Programme\PBWin90\WinAPI\resource.h"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1, 1, 1, 0
+PRODUCTVERSION 1, 1, 1, 0
+FILEOS VOS_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName",      "Petr Schreiber and Michael Hartlef\0"
+      VALUE "FileDescription",  "thinBasic User Defined Library\0"
+      VALUE "FileVersion",      "1.1.1.0\0"
+      VALUE "InternalName",     "UserDefinedLib\0"
+      VALUE "LegalTradeMarks",  "\0"
+      VALUE "OriginalFilename", "tbEM_Lib.dll\0"
+      VALUE "LegalCopyright",   "Copyright © Petr Schreiber, Michael Hartlef, 2009\0"
+      VALUE "ProductName",      "thinBasic eventmanager module\0"
+      VALUE "ProductVersion",   "1.1.1.0\0"
+      VALUE "Comments",         "Support site: http://www.thinBasic.com\0"
+    END
+  END
+END
+
+
