@@ -2,3 +2,5 @@
 *.tbasicc linguist-language=thinBasic
 *.tbasicu linguist-language=thinBasic
 *.tbasici linguist-language=thinBasic
+*.bas linguist-language=PowerBasic
+*.inc linguist-language=PowerBasic
