@@ -1,6 +1,6 @@
-*.tbasic linguist-language=thinBasic
-*.tbasicc linguist-language=thinBasic
-*.tbasicu linguist-language=thinBasic
-*.tbasici linguist-language=thinBasic
+*.tbasic linguist-language=thinbasic
+*.tbasicc linguist-language=thinbasic
+*.tbasicu linguist-language=thinbasic
+*.tbasici linguist-language=thinbasic
 *.bas linguist-language=PowerBasic
 *.inc linguist-language=PowerBasic
